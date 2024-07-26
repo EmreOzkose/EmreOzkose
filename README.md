@@ -14,6 +14,8 @@
 
 
 # Papers
+[5] Özköse, Yunus Emre, and Pınar Duygulu. "Automatic Data Augmentation for Cooking Videos." 2024 32nd Signal Processing and Communications Applications Conference (SIU). IEEE, 2024.
+
 [4] Özköse, Yunus Emre, Zeynep Gökçe, and Pınar Duygulu. "Alignment of Image-Text and Video-Text Datasets." 2023 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023.
 
 [3] Özköse, Yunus Emre, Ali Haznedaroğlu, and Levent M. Arslan. "Customer Churn Analysis with Deep Learning Methods on Unstructured Data." 2021 Innovations in Intelligent Systems and Applications Conference (ASYU). IEEE, 2021.  
