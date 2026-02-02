@@ -14,6 +14,10 @@
 
 
 # Papers
+[7] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Enhancing Speech Recognition Through Text-to-Speech and Voice Conversion Augmentation." International Conference on Speech and Computer. Cham: Springer Nature Switzerland, 2025.
+
+[6] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Leveraging the Pre-Trained Whisper Encoder for Multilingual Language Identification." 2025 10th International Conference on Computer Science and Engineering (UBMK). IEEE, 2025.
+
 [5] Özköse, Yunus Emre, and Pınar Duygulu. "Automatic Data Augmentation for Cooking Videos." 2024 32nd Signal Processing and Communications Applications Conference (SIU). IEEE, 2024.
 
 [4] Özköse, Yunus Emre, Zeynep Gökçe, and Pınar Duygulu. "Alignment of Image-Text and Video-Text Datasets." 2023 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023.
