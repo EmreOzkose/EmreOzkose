@@ -13,20 +13,16 @@
 <img width="43%"  src="https://github-readme-streak-stats.herokuapp.com/?user=EmreOzkose&hide_border=true" />
  -->
 
-# Papers
-[7] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Enhancing Speech Recognition Through Text-to-Speech and Voice Conversion Augmentation." International Conference on Speech and Computer. Cham: Springer Nature Switzerland, 2025.
+# Selected Papers
+[5] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Enhancing Speech Recognition Through Text-to-Speech and Voice Conversion Augmentation." International Conference on Speech and Computer. Cham: Springer Nature Switzerland, 2025.
 
-[6] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Leveraging the Pre-Trained Whisper Encoder for Multilingual Language Identification." 2025 10th International Conference on Computer Science and Engineering (UBMK). IEEE, 2025.
+[4] Ozkose, Yunus Emre, and Ali Haznedaroglu. "Leveraging the Pre-Trained Whisper Encoder for Multilingual Language Identification." 2025 10th International Conference on Computer Science and Engineering (UBMK). IEEE, 2025.
 
-[5] Özköse, Yunus Emre, and Pınar Duygulu. "Automatic Data Augmentation for Cooking Videos." 2024 32nd Signal Processing and Communications Applications Conference (SIU). IEEE, 2024.
+[3] Özköse, Yunus Emre, Zeynep Gökçe, and Pınar Duygulu. "Alignment of Image-Text and Video-Text Datasets." 2023 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023.
 
-[4] Özköse, Yunus Emre, Zeynep Gökçe, and Pınar Duygulu. "Alignment of Image-Text and Video-Text Datasets." 2023 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023.
-
-[3] Özköse, Yunus Emre, Ali Haznedaroğlu, and Levent M. Arslan. "Customer Churn Analysis with Deep Learning Methods on Unstructured Data." 2021 Innovations in Intelligent Systems and Applications Conference (ASYU). IEEE, 2021.  
+[2] Özköse, Yunus Emre, Ali Haznedaroğlu, and Levent M. Arslan. "Customer Churn Analysis with Deep Learning Methods on Unstructured Data." 2021 Innovations in Intelligent Systems and Applications Conference (ASYU). IEEE, 2021.  
   
-[2] Ozkose, Yunus Emre, et al. "Diverse neural photo album summarization." 2019 Ninth International Conference on Image Processing Theory, Tools and Applications (IPTA). IEEE, 2019.  
-  
-[1] Özköse, Yunus Emre, et al. "Finding location of a photograph with deep learning." 2018 26th Signal Processing and Communications Applications Conference (SIU). IEEE, 2018.  
+[1] Ozkose, Yunus Emre, et al. "Diverse neural photo album summarization." 2019 Ninth International Conference on Image Processing Theory, Tools and Applications (IPTA). IEEE, 2019.  
 
 # Open Source Tutorials
 [Pytorch - C++](https://github.com/EmreOzkose/pytorch_cpp)  
